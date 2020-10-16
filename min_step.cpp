@@ -12,5 +12,5 @@ int Solution::coverPoints(vector<int> &A, vector<int> &B) {
         }
     }
     return ans;
-}
+}git
 
